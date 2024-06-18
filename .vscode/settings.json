@@ -1,0 +1,11 @@
+{
+    "python.analysis.extraPaths": [
+        "/opt/openrobots/lib/python3.8/site-packages/pinocchio",
+        "./src/simulator/src"
+    ],
+    "python.autoComplete.extraPaths": [
+        "/home/fu/legged-robots-final-project/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/opt/openrobots/lib/python3.8/site-packages"
+    ]
+}

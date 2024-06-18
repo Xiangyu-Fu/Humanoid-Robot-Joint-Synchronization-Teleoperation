@@ -1,0 +1,5 @@
+<launch>
+    <!-- Launch the talos_teleop.py script -->
+    <node name="talos_teleop_node" pkg="talos_teleop" type="teleop.py" output="screen">
+    </node>
+</launch>

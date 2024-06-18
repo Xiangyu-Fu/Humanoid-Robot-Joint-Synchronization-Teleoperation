@@ -1,0 +1,15 @@
+[submodule "src/hri/hri-fullbody"]
+	path = src/hri/hri-fullbody
+	url = https://github.com/ros4hri/hri_fullbody.git
+[submodule "src/hri/human_description"]
+	path = src/hri/human_description
+	url = https://github.com/ros4hri/human_description.git
+[submodule "src/hri/hri_face_detect"]
+	path = src/hri/hri_face_detect
+	url = https://github.com/ros4hri/hri_face_detect.git
+[submodule "src/hri/libhri"]
+	path = src/hri/libhri
+	url = https://github.com/ros4hri/libhri.git
+[submodule "src/hri/hri_msgs"]
+	path = src/hri/hri_msgs
+	url = https://github.com/ros4hri/hri_msgs.git
