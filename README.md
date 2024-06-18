@@ -1,5 +1,10 @@
+# Humaniod Robot Joint Synchronization teleoperation
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Dbm4_3v5M8o/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=Dbm4_3v5M8o&ab_channel=K.Ni))
+
 
 ## 1 .hri full body
+How to use the repo:
 ### Setup env
 sudo apt install ros-noetic-hri-msgs: the ROS4HRI ROS messages
 
